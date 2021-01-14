@@ -1,7 +1,7 @@
 # password_generator
 Application for generating random passwords
 
-![Alt text](https://lmarrero8566.github.io/password_generator/)
+(https://lmarrero8566.github.io/password_generator/)
 
 Created password generator where user can prompt wht type of password to generate by answering the questions provided.
 
